@@ -8,4 +8,4 @@
 [Spring Boot](http://felord.cn/_doc/_springboot/2.1.5.RELEASE/_book/)<br/>
 [Spring Cloud](https://www.docs4dev.com/docs/zh/spring-cloud/Edgware.SR5/reference/multi__features.html#特征)<br/>
 
-<div style="width:1000px; height:500px;"><video src="https://vdn3.vzuu.com/HD/91e4d3f0-fcdf-11eb-a7d3-d26133c26760-v4_t111-vioBqgktU7.mp4?disable_local_cache=1&auth_key=1634382921-0-0-f66f6764d6006fbf191c80ca007fd076&f=mp4&bu=http-com&expiration=1634382921&v=tx" muted autoplay loop contorl style="width:800px; height:500px;"><video></div>
+<div style="width:1000px; height:500px;"><video src="https://vdn1.vzuu.com/HD/c80a713e-4bdb-11eb-99b3-b6b1917302f4.mp4?disable_local_cache=1&auth_key=1634569935-0-0-f0c24a7b135be5e661b0b29702a26d8e&f=mp4&bu=http-com&expiration=1634569935&v=hw" muted autoplay loop contorl style="width:800px; height:500px;"><video></div>
