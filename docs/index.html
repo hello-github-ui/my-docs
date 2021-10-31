@@ -18,13 +18,20 @@
     />
   </head>
   <body>
+    <nav>
+      <a href="#/">EN</a>
+      <a href="#/zh-cn/">中文</a>
+    </nav>
     <div id="app"></div>
     <script>
       window.$docsify = {
         name: "",
         repo: "hello-github-ui/my-docs",
+        mergeNavbar: true,  // 小屏设备下合并导航栏到侧边栏。
+        coverpage: true,  // 开启封面设置
+        loadNavbar: true, // 加载导航栏
         loadSidebar: true, // 配置侧边栏
-        subMaxLevel: 2, // 配置支持按照标题生成目录，这个在文章很长的时候有很用
+        subMaxLevel: 4, // 配置支持按照标题生成目录，这个在文章很长的时候有很用
         search: 'auto',  // 支持 搜索
         // 切换页面后是否自动跳转到页面顶部
         auto2top: true,
