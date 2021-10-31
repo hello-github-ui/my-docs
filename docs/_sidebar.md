@@ -55,6 +55,11 @@
       - [断路器：Hystrix Clients](EHystrix-Clients.md)
       - [断路器：Hystrix 仪表板](Hystrix仪表板.md)
       - [Hystrix 超时和 Ribbon Clients](Ribbon-Clients.md)
+- RocketMQ
+  - [第一章](rocketmq/分布式消息队列RocketMQ-学习文档-第一章.md)
+  - [第二章](rocketmq/分布式消息队列RocketMQ-学习文档-第二章.md)
+  - [第三章](rocketmq/分布式消息队列RocketMQ-学习文档-第三章.md)
+  - [第四章](rocketmq/分布式消息队列RocketMQ-学习文档-第四章.md)
 - API
   - [免费公共的API](免费公共的API.md)
   - [RAP](RAP.md)
